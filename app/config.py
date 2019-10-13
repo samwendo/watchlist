@@ -29,7 +29,7 @@ config_options = {
 #         Config: The parent configuration class with General configuration settings
 #     '''
 
-#     DEBUG = True
+#      DEBUG = True
 #     MOVIE_API_KEY = '<6129bce4662969a52564c4517d4911de>'
 #     class Config:
 #       '''
